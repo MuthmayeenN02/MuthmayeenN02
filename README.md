@@ -1,6 +1,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/MuthmayeenN02/testrepo/a2c8fcda89d814a3308056ce3a5e3a97d17a7ee3/git-header.svg" />
 
-<h1> 👋 Hi, I'm Muthmayeen, a Developer 🚀 from Chennai. </h1>
+<h1 align="center"> 👋 Hi, I'm Muthmayeen. </h1>
+<h3 align="center">A passionate Machine Learning Enthusiast from India</h3>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/MuthmayeenN02)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedmuthmayeenn17/)
@@ -23,3 +24,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuthmayeenN02&show_icons=true&locale=en&layout=compact" alt="MuthmayeenN02" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MuthmayeenN02&show_icons=true&locale=en" alt="MuthmayeenN02" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MuthmayeenN02&" alt="MuthmayeenN02" /></p>
