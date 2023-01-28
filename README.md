@@ -1,4 +1,4 @@
-<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/MuthmayeenN02/testrepo/a2c8fcda89d814a3308056ce3a5e3a97d17a7ee3/git-header.svg" />
+<img width="42%" align="right" alt="Github" src="https://raw.githubusercontent.com/MuthmayeenN02/testrepo/a2c8fcda89d814a3308056ce3a5e3a97d17a7ee3/git-header.svg" />
 
 <h1 align="center"> 👋 Hi, I'm Mohammed Muthmayeen N. </h1>
 <h3 align="center">A passionate Data Science Enthusiast from India</h3>
